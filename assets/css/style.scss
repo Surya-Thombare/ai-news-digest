@@ -1,0 +1,64 @@
+---
+---
+
+/* Custom styles for AI News Digest */
+
+.post-content h2 {
+  color: #58a6ff;
+  border-bottom: 1px solid #30363d;
+  padding-bottom: 0.4em;
+  margin-top: 2em;
+}
+
+.post-content h3 {
+  color: #d2a8ff;
+  margin-top: 1.5em;
+  margin-bottom: 0.5em;
+}
+
+.post-content ul {
+  margin-bottom: 1.2em;
+}
+
+.post-content li {
+  margin-bottom: 0.4em;
+  line-height: 1.7;
+}
+
+.post-content p {
+  line-height: 1.8;
+  margin-bottom: 1em;
+}
+
+.post-content a {
+  color: #58a6ff;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.post-content a:hover {
+  text-decoration: underline;
+}
+
+.post-content hr {
+  border-color: #30363d;
+  margin: 2em 0;
+}
+
+.post-content blockquote {
+  border-left: 3px solid #58a6ff;
+  padding-left: 1em;
+  color: #8b949e;
+}
+
+.post-list .post-meta {
+  color: #8b949e;
+}
+
+.post-list h3 a {
+  color: #58a6ff;
+}
+
+.site-header {
+  border-top: 3px solid #58a6ff;
+}
