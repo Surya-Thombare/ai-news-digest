@@ -1,4 +1,14 @@
 title: AI News Digest
-description: Daily summaries of the latest news from top AI companies
+description: Daily AI intelligence — automated summaries from 40 leading AI companies
 theme: minima
 show_excerpts: true
+permalink: /:year/:month/:day/:title/
+
+minima:
+  skin: dark
+
+header_pages: []
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
