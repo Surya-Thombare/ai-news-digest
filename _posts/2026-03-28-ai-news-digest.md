@@ -2,30 +2,35 @@
 layout: post
 title: "AI News Digest — March 28, 2026"
 date: 2026-03-28
-categories: ai-news
+description: "Daily summary of the latest news from the top 40 AI companies"
 ---
 
-# AI News Digest — Saturday, March 28, 2026
-
 ## Key Highlights  
-- **Scale AI** announced new features in their **Writer** platform, enabling teams to scale expertise efficiently.  
-- **Character AI** launched **c.ai labs**, a hub for experimental AI entertainment, and optimized **Slonk** (Slurm on Kubernetes) for GPU research.  
-- **Replicate** introduced **SeedDream 5.0**, a model with multi-step reasoning and design-focused image generation, and **Recraft V4**, offering editable SVGs with advanced composition.  
-- **Modular** unveiled **Reka Clip**, a tool for AI coding workflows, emphasizing efficiency and scalability.  
+- **Modular** unveils a breakthrough in AI coding with **Reka Clip**, enabling developers to generate code from text with unprecedented efficiency.  
+- **Replicate** introduces **SeedDream 5.0**, a revolutionary image generation model with multi-step reasoning, example-based editing, and domain-specific knowledge.  
+- **Character AI** launches **Slonk**, a Kubernetes-based GPU cluster system for ML research, and optimizes large-scale pretraining with advanced hardware collaboration.  
 
 ## Company Updates  
 
-### Scale AI  
-Scale AI unveiled **Writer**’s new features, including **"Scale your team’s expertise"**, allowing users to automate SDR follow-ups and personalize leads in 30 seconds. The tool leverages AI to streamline sales processes, enhancing productivity. [Read more]({https://writer.com/blog/new-roundup-march-2026/})  
+### Modular  
+Modular announces **Reka Clip**, a tool that transforms text into code with zero training, enabling developers to generate AI code from natural language. The tool leverages open-source model foundations and is designed for rapid prototyping.  
 
-### Character AI  
-Character AI launched **c.ai labs**, a platform for playful AI experiments in entertainment. They optimized **Slonk** (Slurm on Kubernetes) for GPU clusters, achieving 2x production inference performance. The platform also introduced **Imaginate Gallery**, a tool to turn conversations into visuals. [Read more]({https://blog.character.ai/slonk/})  
+[Read more](https://www.modular.com/blog/modular-26-2-state-of-the-art-image-generation-and-upgraded-ai-coding-with-mojo)  
 
 ### Replicate  
-Replicate launched **SeedDream 5.0**, a model with advanced reasoning and design taste for image generation. They also released **Recraft V4**, offering editable SVGs with strong composition and text rendering. These updates aim to improve AI-generated content quality. [Read more]({https://replicate.com/blog/how-to-prompt-seeddream-5})  
+Replicate launches **SeedDream 5.0**, a next-generation image generation model that supports complex reasoning and domain-specific edits. The model is optimized for efficiency and scalability, with features like multi-step reasoning and example-based editing.  
 
-### Modular  
-Modular introduced **Reka Clip**, a tool for AI coding workflows, focusing on efficiency and scalability. The platform supports large-scale pretraining and offers features like sparsity and training optimization. [Read more]({https://www.modular.com/blog/modular-26-2-state-of-the-art-image-generation-and-upgraded-ai-coding-with-mojo})  
+[Read more](https://replicate.com/blog/how-to-prompt-seeddream-5)  
+
+### Character AI  
+Character AI introduces **Slonk**, a Kubernetes-based GPU cluster system for ML research, and shares insights on optimizing large-scale pretraining. The system enables teams to run GPU clusters efficiently, while the company emphasizes collaboration across teams to improve performance.  
+
+[Read more](https://blog.character.ai/technical-deep-dive-how-digitalocean-and-amd-delivered-a-2x-production-inference-performance-increase-for-character-ai)  
+
+### Arcee AI  
+Arcee AI releases **Trinity Large**, a deep learning model with advanced architecture, sparsity, and training efficiency. The model supports preview, base, and truebase checkpoints, offering flexibility for different use cases.  
+
+[Read more](https://blog.arcee.ai/blog/trinity-large)  
 
 ## Industry Analysis  
-The AI industry is witnessing rapid advancements in tooling, open-source collaboration, and performance optimization. Companies like Scale AI and Character AI are prioritizing user productivity and creative experimentation, while Replicate and Modular are pushing boundaries in image generation and coding workflows. These updates reflect a trend toward democratizing AI capabilities, enhancing efficiency, and fostering innovation across sectors.
+The AI industry is witnessing a shift toward open-source models and efficient training techniques. Companies like Modular and Replicate are prioritizing tools that reduce development time and improve scalability, while Character AI emphasizes hardware collaboration for research. Innovations in diffusion models and multi-step reasoning (e.g., SeedDream 5.0) highlight the growing demand for specialized AI capabilities. Meanwhile, the focus on lightweight models like Isaac 0.1 underscores the industry’s push for efficiency, particularly in deployment and inference. These developments collectively signal a trend toward open collaboration, performance optimization, and specialized AI solutions.
